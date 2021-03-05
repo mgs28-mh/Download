@@ -42,7 +42,7 @@ codename:whyred
 * Fixed emergency icon tinting, credits to PE
 * Rebased telephony repos
 * Lockscreen date styles
-* Shishu Themes now have LIT instead of LTE
+* conquer Themes now have LIT instead of LTE
 * Added Q clock with extra changes for date and owner
 * Aggresive Battery
 * Custom fingerprint icons for OP devices

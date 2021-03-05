@@ -13,13 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootleggers ROM
-email: bootleggersunstable@gmail.com
+title: Download ConquerOS
+email: developers@conqueros.co
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the download center for all the Shishufied (official)
-  builds for Bootleggers ROM, an AOSP Custom ROM with the goal of making you feel like 家.
-  Including various features from other projects and some interesting
-  system apps.
+  This is the download center for all Offical buidls of ConquerOS.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

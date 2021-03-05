@@ -1,46 +1,46 @@
-.shishu {
+.conquer {
 	background-color:#121217!important;
 	color:#f3f3f3;
   font-family: 'Roboto Condensed', sans-serif!important;
 }
 
-.text-shishu-muted {
+.text-conquer-muted {
   color: #e1e1e1;
 }
 
-.shishu-light-bg {
+.conquer-light-bg {
 	background-color:#1c1c24!important;
 	color:#d3d3d3;
 }
 
-.shishu-midlight-bg {
+.conquer-midlight-bg {
   background-color:#24242f!important;
   color:#d3d3d3;
 }
 
-.shishu-lighter-bg {
+.conquer-lighter-bg {
   background-color:#2d2d3a!important;
   color:#d3d3d3;
 }
 
-.text-shishu-light-muted {
+.text-conquer-light-muted {
   color: #c1c1c1;
 }
 
-.shishu-accent {
-	color:#e52c5f!important;
+.conquer-accent {
+	color:#64acff!important;
 }
 
 a {
-  color:#e52c5f!important;
+  color:#64acff!important;
 }
 
-.shishu-accent-btn {
+.conquer-accent-btn {
   color:#f3f3f3!important;
-  background-color:#e52c5f;
+  background-color:#64acff;
 }
 
-.shishu-accent-btn:hover {
+.conquer-accent-btn:hover {
   color:#f3f3f3!important;
   background-color:#ea567e;
 }
@@ -117,7 +117,7 @@ nav .brand-logo > img {
   margin-top:18vh;
 }
 
-.btlg-intro {
+.conquer-intro {
   height:450px;
 }
 

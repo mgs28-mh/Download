@@ -11,7 +11,7 @@
 
 function getChangelog(deviceCd) {
     var deviceName = deviceCd
-    var runTheCL = jQuery.get('https://raw.githubusercontent.com/BootleggersROM-Devices/BootleggersROM-Devices.github.io/master/_changelog/' + deviceName + '.md', function(data) {
+    var runTheCL = jQuery.get('https://raw.githubusercontent.com/ConquerOS/download/master/_changelog/' + deviceName + '.md', function(data) {
       var clLines = [];
       var clText = data.split(/\n/);
       var finalSlice = 4;
@@ -26,7 +26,7 @@ function getChangelog(deviceCd) {
 
 function getChangelogBeta(deviceCd) {
     var deviceName = deviceCd
-    var runTheCL = jQuery.get('https://raw.githubusercontent.com/BootleggersROM-Devices/BootleggersROM-Devices.github.io/master/_changelogbeta/' + deviceName + '.md', function(data) {
+    var runTheCL = jQuery.get('https://raw.githubusercontent.com/ConquerOS/download/master/_changelogbeta/' + deviceName + '.md', function(data) {
       var clLines = [];
       var clText = data.split(/\n/);
       var finalSlice = 4;
