@@ -1,5 +1,5 @@
 .conquer {
-	background-color:#121217!important;
+	background-color:#000000!important;
 	color:#f3f3f3;
   font-family: 'Roboto Condensed', sans-serif!important;
 }
@@ -9,17 +9,17 @@
 }
 
 .conquer-light-bg {
-	background-color:#1c1c24!important;
-	color:#d3d3d3;
+	background-color:#000000!important;
+	color:#ffffff;
 }
 
 .conquer-midlight-bg {
-  background-color:#24242f!important;
-  color:#d3d3d3;
+  background-color:#000000!important;
+  color:#ffffff;
 }
 
 .conquer-lighter-bg {
-  background-color:#2d2d3a!important;
+  background-color:#000000!important;
   color:#d3d3d3;
 }
 
@@ -42,7 +42,7 @@ a {
 
 .conquer-accent-btn:hover {
   color:#f3f3f3!important;
-  background-color:#ea567e;
+  background-color:#abbdd1;
 }
 
 nav .brand-logo > img {
