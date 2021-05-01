@@ -33,3 +33,20 @@ codename:tulip
 * Added support for exfat SD Cards
 * Removed QS Panel Drag Handle
 * Tweaked QS Panel UI
+
+=====================
+    19 April 2021
+=====================
+
+* Bump to 4.2
+* Added Aggressive Battery
+* Added Volum Panel Styles
+* Eanbled PermissionHub
+* Added Battery Icon Style
+* Added opyion to show Battery Percentage
+* Reorder QSTiles
+* Redesign QS Media Player
+* Make QS Tile looks even nicer
+* Added gesture to skip track by holding volume button
+* Added FP Icon if FP Registered on keyguard
+* Small fixes and improves
