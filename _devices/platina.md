@@ -1,5 +1,5 @@
 ---
-codename: tulip
+codename: platina
 fullname: Xiaomi Mi 8 Lite
 romversion: 4.2 Raven
 maintainer: Hanif Ardhani
