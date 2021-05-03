@@ -50,3 +50,17 @@ codename:whyred
 * Added gesture to skip track by holding volume button
 * Added FP Icon if FP Registered on keyguard
 * Small fixes and improves
+
+=====================
+     03 May 2021
+=====================
+
+* applock: Check current and called activity package before locking again
+* Added LiveDisplay
+* Remove ugly network activity arrow on status bar
+( Remove "Clean All" Text button
+* Remove FP Icon on lockscreen
+* Allow to limit Screenrecorder framerate
+* Apply system_icons_keyguard_padding_end to parent view
+* Revert secondary home handler
+( Merge CAF Tag "LA.QSSI.11.0.r1-11600-qssi.0"
