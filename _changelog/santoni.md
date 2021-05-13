@@ -5,6 +5,8 @@ codename:santoni
     09 May 2021
 =====================
 • Now ril working without magisk
+• enforcing selinux
+• update fingerprint to redfin may 
 • Volte call working fine without icon
 • Dolby always added
 • Fixed camera not working
