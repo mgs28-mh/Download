@@ -15,7 +15,7 @@ title: Downloads
         <li>
           <div class="collapsible-header collapsible-noborder conquer-lighter-bg">
             <i class="material-icons">phone_android</i>
-          {{ device.fullname }} | {{ device.codename }}</div>
+          {{ device.codename }} | {{ device.fullname }}</div>
           <div class="collapsible-body collapsible-noborder conquer-midlight-bg">
             <span>Maintainer:</span><div class="chip conquer-lighter-bg" style="margin-left:4px">{{ device.maintainer }}</div><br>
             <span>Supported Version:</span><div class="chip conquer-lighter-bg" style="margin-left:4px">{{ device.romversion }}</div><br>
