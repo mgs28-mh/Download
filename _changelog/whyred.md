@@ -2,6 +2,26 @@
 codename:whyred
 ---
 =====================
+    12 July 2021
+=====================
+ - 4.4 Code bas release
+ - Merged LA.QSSI.11.0.r1-12400.02-qssi.0
+ - Redesigned Settings Dashboard UI
+ - Allow Hotspot client use VPN upstream
+ - Add Native Zygote fork loop
+ - OxygenOS 11 QS Panel style
+ - Updated prebuilt apps
+ - Optimized new jemalloc. 69FPS POOPG. thanks to ProtonAOSP
+ - Allow user to unlink notification amd ringtone volume
+ - Unlimited Photo storage with original quality (Gapps variant only)
+ - Fix lock icon drawable
+ - Fix some overlay
+ - Some other small improvement and optimization
+ - Rebased tree for tulip, whyred, wayne, and jasmine_sprout
+ - Rework on WFD
+ - Update IMS Blobs from LA.UM.9.6.2.r1-04100-89xx.0
+
+=====================
     20 June 2021
 =====================
  - 4.3 code base release
