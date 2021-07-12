@@ -2,6 +2,14 @@
 codename:violet
 ---
 =====================
+     12 Jul 2021
+=====================
+* Based on latest CAF Tag LA.QSSI.11.0.r1-12400.02-qssi.0
+* Added Moto Dolby and other audio improvements
+* Tweaked vibration patterns
+* Improved Thermal Profiles
+
+=====================
      09 Jun 2021
 =====================
 

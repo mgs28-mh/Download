@@ -1,7 +1,7 @@
 ---
 codename: violet
 fullname: Redmi Note 7 Pro
-romversion: 4.3 Raven
+romversion: 4.4 Raven
 maintainer: George BK, Md Abu Talha
 newformat: true
 pling: https://www.pling.com/p/1417154/
