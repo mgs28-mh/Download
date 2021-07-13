@@ -1,4 +1,43 @@
 =====================
+    12 July 2021
+=====================
+Source Side Changelog:
+ - 4.4 Code base release
+ - Merged LA.QSSI.11.0.r1-12400.02-qssi.0
+ - Redesigned Settings Dashboard UI
+ - Allow Hotspot client use VPN upstream
+ - Add Native Zygote fork loop
+ - OxygenOS 11 QS Panel style
+ - Updated prebuilt apps
+ - Optimized new jemalloc. 69FPS POOPG. thanks to ProtonAOSP
+ - Allow user to unlink notification and ringtone volume
+ - Unlimited Photo storage with original quality (Gapps variant only)
+ - Fix lock icon drawable
+ - Fix some overlay
+ - Some other small improvement and optimization
+
+Device Side Changelog:
+ - Build minijail service for imsrtpservice
+ - Build power stats and label it
+ - Disable Bluetooth by default
+ - Enable freeform window management
+ - Enable VoLTE support for Smartfren (Indonesia)
+ - Enable VoLTE support for Telkomsel (Indonesia)
+ - Set linker to LLD
+ - Switch to Thermal 2.0 mock
+ - Update graphics blobs V@0490.0 from taimen RP1A.201005.004
+ - Update IMS libs to LA.UM.9.6.2.r1-04100-89xx.0
+ - Update lib-imsvtcore from mojito
+ - Update org.codeaurora.ims permissions
+ - Update portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0
+ - Update qti-telephony-common from LA.UM.9.6.2.r1-04100-89xx.0
+ - Update WFD blobs from phoenix_sprout RKQ1.201123.002
+ - Use Userspace LMKD if there's no LMK driver
+ - Upstream kernel 4.4.275
+ - Merge CAF tag LA.UM.9.2.r1-03400-SDMxx0.0
+ - Compiler Proton Clang with LTO
+
+=====================
     17 June 2021
 =====================
 Source Side Changelog:
