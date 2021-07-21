@@ -8,7 +8,8 @@ codename:santoni
 • Updated perf blobs from LA.UM.8.6.2.r1-08600-89xx.0
 • Updated power profile
 • Switched SnapCamera for default camera app (CameraGO removed)
-• Make tree more clean 
+• Make tree more clean
+• Fixed Encryption
 • Switched to AIDL Light HAL
 • Switched to QTI Health HAL
 • Switch to mi8937 Kernel 4.9-275 ( gengkapak gcc )
