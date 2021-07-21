@@ -1,6 +1,6 @@
 ---
 codename: z2_plus
-fullname: Lenovo Zuk Z2
+fullname: Lenovo Zuk Z2 Plus
 romversion: 4.4 Raven
 maintainer: Pranav Temkar
 newformat: true
