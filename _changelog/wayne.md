@@ -2,6 +2,18 @@
 codename:wayne
 ---
 =====================
+    29 July 2021
+=====================
+ - Fixed Android 12 Clock face marginEnd
+ - Added NetworkTraffic Meter
+ - Enabled Wi-Fi Display Cast
+ - Added and enabled Xiaomi Doze
+ - Enabled Zygote Preforking for better app loading performance
+ - Improve battery backup
+ - Some cleanup and improvement on init scripts
+ - Some small bug fixes and improvement 
+
+=====================
     21 July 2021
 =====================
  - Merged LA.QSSI.11.0.r1-12600-qssi.0
