@@ -26,6 +26,7 @@ Device Side Changelog:
 • Update some radio and telephony blobs from LA.UM.9.6.2.r1-04100-89xx.0
 • Update RIL from AOSPA (Radio from LA.UM.9.12.r1-10800-SMxx50.0-AOSPA and Telephony from qcom-common-AOSPA)
 • Added GCam
+• Kernel Upstreamed To 4.4.277
 
 =====================
     28 April 2021
