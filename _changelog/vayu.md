@@ -3,6 +3,20 @@ codename:vayu
 ---
 
 =====================
+    2 August 2021
+=====================
+Device Side Changelog:
+* Adapt CAF Power for vayu
+* Configure zram from separate fstab
+* Revert Migrate to media codecs c2
+* Create Adreno symlinks
+* Disable the usage of ConfigStore
+* Adress more denials
+* Using Chaldea Kernel (Compile with latest Clang Proton)
+* Lots of improvement on kernel
+* Remove virtual framebuffer
+* Properly label /sys/kernel/qvr_external_sensor/fd
+=====================
     28 July 2021
 =====================
 Source Side Changelog:
