@@ -2,6 +2,16 @@
 codename:ulysse
 ---
 =====================
+    3 August 2021
+=====================
+Device Side Changelog:
+* Fix Calling issue in previous build
+* Upstream Kernel to 4.9.277
+* Merge tag LA.UM.9.6.2.r1-04800-89xx.0 in kernel
+* Enable LZ4 and ZSTD zram compression
+* Update blobs from LA.UM.9.6.2.r1-04100-89xx.0
+
+=====================
     22 July 2021
 =====================
  - Merged LA.QSSI.11.0.r1-12600-qssi.0
